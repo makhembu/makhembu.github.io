@@ -2200,6 +2200,8 @@ a:hover .center-icon i {
   
   .midnight {
 	color: #2c3e50;
-	
   }
   
+  span { 
+	  margin-left:1em 
+	}
